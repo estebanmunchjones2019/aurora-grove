@@ -50,7 +50,7 @@ This project was coded to learn [Bootstrap 4](https://getbootstrap.com/docs/4.0/
 
 * **Clone or download the repo.**
 
-* Open `index.html` file in with your favorite browser and you're good to go.
+* Open the `index.html` file with your favorite browser and you're good to go.
 
   
 
