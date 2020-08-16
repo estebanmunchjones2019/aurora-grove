@@ -1,4 +1,4 @@
-# Burger Builder
+# Aurora Grove
 > A mobile responsive landing page beautifully crafted with [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/). Live project: https://estebanmunchjones2019.github.io/aurora-grove/.
 
 
